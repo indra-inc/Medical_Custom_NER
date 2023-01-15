@@ -44,5 +44,9 @@ python -m spacy train config.cfg --output ./ --paths.train ./train_corona_docbin
 
 ![image](https://user-images.githubusercontent.com/97096513/212550739-e17abb0c-8ba3-4471-9f64-d00bd291128b.png)
 
+![image](https://user-images.githubusercontent.com/97096513/212551053-b6702c74-d1d7-48aa-b061-6f23b195d894.png)
 
-## Project Link: [Medical_NER_App](https://www.kaggle.com/datasets/finalepoch/medical-ner "Medical_NER_App")
+![image](https://user-images.githubusercontent.com/97096513/212551097-17445b70-3688-484a-8665-89828fc8c988.png)
+
+
+## Streamlit App Link: [Medical_NER_App](https://indra-inc-medical-custom-ner.streamlit.app/ "Medical_NER_App")
