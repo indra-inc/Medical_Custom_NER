@@ -1,3 +1,8 @@
+<a target="_blank" href="https://colab.research.google.com/github/indra-inc/Medical_Custom_NER/blob/main/Medical_Custom_NER_SpaCy.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
 # Custom NER using SpacyV3
 
 - According to Wikipedia, Named Entity Recognition (NER) is a subtask of information extraction that seeks to locate and classify named entities mentioned in unstructured text into pre-defined categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc.
