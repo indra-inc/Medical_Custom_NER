@@ -40,6 +40,9 @@ python -m spacy train config.cfg --output ./ --paths.train ./train_corona_docbin
 
 ## Adding Snippets:-
 
+![image](https://user-images.githubusercontent.com/97096513/212550719-3b6a337f-aebe-45d4-8522-c8d1cdc46176.png)
+
+![image](https://user-images.githubusercontent.com/97096513/212550739-e17abb0c-8ba3-4471-9f64-d00bd291128b.png)
 
 
 ## Project Link: [Medical_NER_App](https://www.kaggle.com/datasets/finalepoch/medical-ner "Medical_NER_App")
