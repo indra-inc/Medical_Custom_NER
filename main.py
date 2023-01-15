@@ -30,7 +30,7 @@ options = {"colors": colors}
 
 st.subheader("-------- List of Entity and their Label --------")
 for ent in doc.ents:
-  st.write(ent.text, "|", ent.label_, '|')
+  st.write("Entity : ", ent.text, " | ", "Label : ", ent.label_)
 
 st.subheader("-------- Entity and Label Display --------")
 ent_html = displacy.render(doc, style = 'ent',options= options, jupyter= False)
