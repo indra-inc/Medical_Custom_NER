@@ -50,3 +50,6 @@ python -m spacy train config.cfg --output ./ --paths.train ./train_corona_docbin
 
 
 ## Streamlit App Link: [Medical_NER_App](https://indra-inc-medical-custom-ner.streamlit.app/ "Medical_NER_App")
+
+
+<img align="center" src="Medical_Custom_NER.gif" width="500"/>
