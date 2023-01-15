@@ -7,6 +7,7 @@ warnings.filterwarnings("ignore")
 
 
 ## creating function for test sentence
+@st.cache
 def evaluateDisplayNer(inp):
   # Loaded newly created model-best
 
@@ -20,8 +21,8 @@ def evaluateDisplayNer(inp):
 
 
 st.title('Custom NER: Corona')
-
-inp = st.text_input('Put your input string : ')
+st.header('Put your input string : ')
+inp = st.text_input()
 st.write('Your Input String is: ', inp)
 doc = evaluateDisplayNer(inp)
 
